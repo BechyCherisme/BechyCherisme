@@ -22,9 +22,9 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/bechy-cherisme-40a678173//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-BechyCherisme-Red?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/BechyCherisme_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-BechyCherisme-Red?style=static-circle&logo=instagram"></a>
- <a href="https://www.twitter.com/BechyCherisme_/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-BechyCherisme-Red?style=static-circle&logo=twitter"></a>
+<a href="https://www.linkedin.com/in/bechy-cherisme-40a678173/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-BechyCherisme-Red?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/B_cdreams/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-BechyCherisme-Red?style=static-circle&logo=instagram"></a>
+ <a href="https://www.twitter.com/B_cdreams/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-BechyCherisme-Red?style=static-circle&logo=twitter"></a>
 <a href="mailto:bcherisme@hawkmail.hccfl.edu"><img alt="Email" src="https://img.shields.io/badge/Email-bcherisme@hawkmail.hccfl.edu-red?style=flat-square&logo=gmail"></a>
 </p>
 
