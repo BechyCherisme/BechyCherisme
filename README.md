@@ -1,16 +1,31 @@
-### Hi there 👋
+<h2> Hey there! I'm Bechy.</h2>
 
-<!--
-**BechyCherisme/BechyCherisme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 About Me </h3>
 
-Here are some ideas to get you started:
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🎓 &nbsp; Studying Computer Science. 
+- 💼 &nbsp; Working as a Insurance Agent.
+- 🌱 &nbsp; Learning more about Front-end-development and computer application.
+- ✍️ &nbsp; Enjoy sales and creating web application hobbies/side hustles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠 Tech Journey </h3>
+
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | Gatsbyjs
+- 🛢 &nbsp; Php | GraphQl
+- 🔧 &nbsp; Git | Markdown 
+- 🖥 &nbsp; Illustrator| Photoshop | InDesign
+
+<br/>
+
+[![Bechy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BechyCherisme&show_icons=true)](https://github.com/BechyCherisme)
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/bechy-cherisme-40a678173//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-BechyCherisme-Red?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/BechyCherisme_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-BechyCherisme-Red?style=static-circle&logo=instagram"></a>
+ <a href="https://www.twitter.com/BechyCherisme_/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-BechyCherisme-Red?style=static-circle&logo=twitter"></a>
+<a href="mailto:bcherisme@hawkmail.hccfl.edu"><img alt="Email" src="https://img.shields.io/badge/Email-bcherisme@hawkmail.hccfl.edu-red?style=flat-square&logo=gmail"></a>
+</p>
+
+⭐️ From [BechyCherisme](https://github.com/BechyCherisme)
