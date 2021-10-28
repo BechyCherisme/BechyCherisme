@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science. 
-- 💼 &nbsp; Working as a Insurance Agent.
+- 💼 &nbsp; Working as a Web Content Editior.
 - 🌱 &nbsp; Learning more about Front-end-development and computer application.
 - ✍️ &nbsp; Enjoy sales and creating web application hobbies/side hustles.
 
