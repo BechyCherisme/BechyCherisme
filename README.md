@@ -15,7 +15,15 @@
 - 🔧 &nbsp; Git | Markdown 
 - 🖥 &nbsp; Illustrator| Photoshop | InDesign
 
-<br/>
+<h3>📚🏻 My Personal Projects </h3>
+
+
+- 👁 &nbsp; Check out <a href="https://www.coronanuke.com/" target="_blank"> Coronanuke</a>
+
+- 👁 &nbsp; Check out <a href="https://sailsbib.netlify.app/" target="_blank"> Sailsbib Marketing </a>
+ 
+- 👁 &nbsp; Check out <a href="https://sailsbibz.myshopify.com/" target="_blank"> Sailsbib Store </a> Password Test1234
+ 
 
 [![Bechy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BechyCherisme&show_icons=true)](https://github.com/BechyCherisme)
 
@@ -27,11 +35,6 @@
  <a href="https://www.twitter.com/B_cdreams/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-BechyCherisme-Red?style=static-circle&logo=twitter"></a>
 <a href="mailto:bcherisme@hawkmail.hccfl.edu"><img alt="Email" src="https://img.shields.io/badge/Email-bcherisme@hawkmail.hccfl.edu-red?style=flat-square&logo=gmail"></a>
 </p>
-
-<h3>📚🏻 My Personal Projects </h3>
-
-<p align="center">
- <a href="https://www.coronanuke.com/"target="_blank"> 👁 Coronanuke </a>
 
 
 ⭐️ From [BechyCherisme](https://github.com/BechyCherisme)
