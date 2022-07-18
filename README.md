@@ -5,12 +5,12 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science. 
 - 💼 &nbsp; Working as a Web Content Editior.
-- 🌱 &nbsp; Learning more about Front-end-development and computer application.
-- ✍️ &nbsp; Enjoy sales and creating web application hobbies/side hustles.
+- 🌱 &nbsp; Learning more about development and computer application.
+- ✍️ &nbsp; Enjoy sales and creating web application hobbies
 
 <h3>🛠 Tech Journey </h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | Gatsbyjs
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | 
 - 🛢 &nbsp; Php | GraphQl
 - 🔧 &nbsp; Git | Markdown 
 - 🖥 &nbsp; Illustrator| Photoshop | InDesign
